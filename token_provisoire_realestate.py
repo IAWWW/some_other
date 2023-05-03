@@ -9,7 +9,7 @@ import re
 
 
 project_id = 'heimdall-333'
-key_file = '/Users/iar/Documents/Heimdall/python/....json'
+key_file = '/Users/iar/Documents/.../python/....json'
 
 # Load the workbook
 wb = openpyxl.load_workbook('/Users/iar/Documents/.../excel_database/data_base.xlsx')
